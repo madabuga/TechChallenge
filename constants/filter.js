@@ -1,0 +1,1 @@
+export const PRICES_LIST = ["mai putin de 100 lei", "100-200 lei", "200-300 lei", "300-400 lei", "peste 400 lei"]

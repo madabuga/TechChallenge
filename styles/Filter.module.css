@@ -1,0 +1,26 @@
+.filterContainer {
+    position: absolute;
+    z-index: 2;
+    min-height: 85vh;
+    max-height: 85vh;
+    width: 20rem;
+    margin-left: 1rem;
+    overflow-y: scroll;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.048), 0 6px 10px 0 rgba(0, 0, 0, 0.096);
+}
+
+.filterItem {
+    padding: 0.5rem 0 0.5rem 0.5rem;
+}
+
+.title {
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.02rem;
+}
+
+.item {
+    font-size: 0.8rem;
+    display: flex;
+}
